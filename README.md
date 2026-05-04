@@ -7,3 +7,10 @@
 
 ### Lean Canvas
 [![Lean Canvas](LeanCanvas/img.PNG)](LeanCanvas/img.PNG)
+
+### Roles, User stories, MoSCoW and MVP+MLP
+[![Roles, User stories, MoSCoW and MVP+MLP](MVP/roles_US_MVP_MLP.PNG)](MVP/roles_US_MVP_MLP.PNG)
+
+#### Функциональные и нефункциональные требования
+[![Functional and non-functional requirements first](MVP/FT_1.PNG)](MVP/FT_1.PNG)
+[![Functional and non-functional requirements second](MVP/FT_2.PNG)](MVP/FT_2.PNG)

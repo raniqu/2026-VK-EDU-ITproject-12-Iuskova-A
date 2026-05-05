@@ -1,4 +1,4 @@
-# Практическое задание 1
+## Практическое задание 1
 
 ### Elevator Pitch
 
@@ -7,6 +7,8 @@
 
 ### Lean Canvas
 [![Lean Canvas](LeanCanvas/img.PNG)](LeanCanvas/img.PNG)
+
+## Практическое задание 2
 
 ### Roles, User stories, MoSCoW and MVP+MLP
 [![Roles, User stories, MoSCoW and MVP+MLP](MVP/roles_US_MVP_MLP.PNG)](MVP/roles_US_MVP_MLP.PNG)
@@ -17,6 +19,7 @@
 
 [![Functional and non-functional requirements second](MVP/FT_2.PNG)](MVP/FT_2.PNG)
 
+## Практическое задание 3
 
 ### DDD and BDD
 [![DDD](DDD/DDD.PNG)](DDD/DDD.PNG)
@@ -27,3 +30,5 @@
 
 ### API - first
 [![API - first](DDD/API.PNG)](DDD/API.PNG)
+
+## Практическое задание 4

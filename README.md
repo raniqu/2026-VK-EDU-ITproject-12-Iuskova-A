@@ -13,4 +13,17 @@
 
 #### Функциональные и нефункциональные требования
 [![Functional and non-functional requirements first](MVP/FT_1.PNG)](MVP/FT_1.PNG)
+
+
 [![Functional and non-functional requirements second](MVP/FT_2.PNG)](MVP/FT_2.PNG)
+
+
+### DDD and BDD
+[![DDD](DDD/DDD.PNG)](DDD/DDD.PNG)
+[![BDD](DDD/BDD.PNG)](DDD/BDD.PNG)
+
+### Фрейминги
+[![fr](DDD/fr.PNG)](DDD/fr.PNG)
+
+### API - first
+[![API - first](DDD/API.PNG)](DDD/API.PNG)

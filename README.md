@@ -53,7 +53,7 @@ aiogram 3.x (асинхронная)
 
 **Product Manager** - Приоритизация фичей для MVP, коммуникация с клиентами и сбор фидбека <br>
 **Backend Developer** - Telegram-бот (aiogram) + API (FastAPI), Интеграция с ЮKassa <br>
-**Database** - PostgreSQL, Redis
+**Database** - PostgreSQL, Redis <br>
 **QA** - Ручное тестирование сценариев
 
 ### 2. Development Framework: Scrum
